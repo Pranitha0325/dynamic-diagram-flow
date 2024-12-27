@@ -1,0 +1,16 @@
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 20%;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-right: 1px solid #ddd;
+}
+
+.reactflow-wrapper {
+  flex: 1;
+  height: 100%;
+}
